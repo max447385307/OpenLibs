@@ -1,0 +1,6 @@
+﻿  ShaderHelper.cpp
+  Model.cpp
+  Mesh.cpp
+c:\users\chenyu\documents\visual studio 2015\projects\myopenglib\openlibs\openlibs\mesh.cpp(31): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  Generating Code...
+  OpenLibs.vcxproj -> C:\Users\chenyu\Documents\Visual Studio 2015\Projects\MyOpenglib\OpenLibs\Debug\OpenLibs.lib
